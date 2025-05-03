@@ -1,5 +1,7 @@
+
+import  Game from './Game.jsx'
 function App() {
-    return <></>;
+    return<Game/>;
 }
 
 export default App;

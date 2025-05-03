@@ -8,3 +8,5 @@ export const stages = [
     "https://i.imgur.com/CtvIEMS.png",
     "https://i.imgur.com/Z2mPdX0.png",
 ];
+
+export default stages;

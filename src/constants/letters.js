@@ -25,3 +25,4 @@ export const letters = [
     "X",
     "Y",
 ];
+export default letters;

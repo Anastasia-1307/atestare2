@@ -50,3 +50,5 @@ export const words = [
     "RESPECT",
     "SAFELY",
 ];
+
+export default words;
